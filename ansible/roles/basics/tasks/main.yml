@@ -1,0 +1,11 @@
+---
+- name: Install Git Fork
+  win_chocolatey:
+    name: git-fork
+- name: Install Gimp
+  win_chocolatey:
+    name: gimp
+- name: Install Keepass
+  win_chocolatey:
+    name: keepass
+...
