@@ -84,7 +84,7 @@ Enter virtual machine name and wait until VirtualBox VM is ready.
 
 ## Authors
 
-- [Thierry Iseli](https://github.com/thierryiseli) - *Inital work*
+- [Thierry Iseli](https://github.com/thierryiseli) - *Initial work*
 
 ## License
 
